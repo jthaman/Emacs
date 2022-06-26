@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: yaml-header-toc-partial
+# key: toc-partial
+# --
+---
+output:
+  blogdown::html_page:
+    toc: true
+---
